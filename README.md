@@ -4,8 +4,6 @@
 
 > **Prototype notice:** This is a front-end prototype. Data is kept in the browser only and resets when you refresh the page. There is no real login or database yet.
 
-![Landing page](docs/screenshots/01-landing.png)
-
 ## Table of contents
 
 - [Features](#features)
@@ -51,8 +49,6 @@
 - Manage admins and residents
 - System reports and settings
 - Change password
-
-![Resident dashboard](docs/screenshots/02-resident-dashboard.png)
 
 ## Try it
 
@@ -111,8 +107,6 @@ Use the menu on the left. On a phone, tap the menu icon at the top left.
 **How to follow a report**
 Open **My Reports**, click **View**, and check the **Report progress** timeline. The stages are Submitted, Under Review, In Progress and Resolved. Any message from the barangay appears under **Barangay remarks**.
 
-![Report progress](docs/screenshots/03-report-progress.png)
-
 ### As an admin
 
 What you see in the menu depends on your level.
@@ -137,8 +131,6 @@ What you see in the menu depends on your level.
 3. Click **View** on a report.
 4. Level 3 admins use the **Update report** box to choose a new status, write remarks, and click **Save update**. Levels 1 and 2 can read the report only.
 
-![Update a report](docs/screenshots/04-admin-update-report.png)
-
 **Other admin tasks (Level 3)**
 
 - **Manage Admins:** click **Add admin** to create an account and pick a level. Use **Edit** to change details, and **Deactivate** to block an account.
@@ -149,13 +141,9 @@ What you see in the menu depends on your level.
 **System reports (Level 2 and 3)**
 See how many reports there are by category, status and month. Click **Export report** to download all reports as a CSV file that opens in Excel.
 
-![System reports](docs/screenshots/05-system-reports.png)
-
 ### As the super admin
 
 The super admin can manage admins and residents, read all reports, open system reports and settings, and view the map. The super admin can read reports but does not update their status. Open **Profile** and click **Change password** to change the password.
-
-![Dark mode](docs/screenshots/06-dark-mode.png)
 
 ## Run it on your computer
 
